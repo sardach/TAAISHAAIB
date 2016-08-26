@@ -1,6 +1,6 @@
 TAAISHAAIB
 =======
-Tablón de Arte ANSII e Imágenes con funciones avanzadas, accesible por SSH y exploradores. Escrito enteramente en BASH. 
+Tablón de Arte ANSI e Imágenes con funciones avanzadas, accesible por SSH y exploradores. Escrito enteramente en BASH. 
 
 ## ¿TAAISHAAIB?
 Estuve pensando en un nombre durante una noche de Agosto, tenia dos: uno en ingles y otro en español. No me decidi, así que los junte. El resultado fue lo siguiente: 
