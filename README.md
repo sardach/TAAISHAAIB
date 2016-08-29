@@ -7,13 +7,13 @@ Estuve pensando en un nombre durante una noche de Agosto, tenia dos: uno en ingl
 
 **T**ablón de **A**rte **A**NSI e **I**mágenes escrito en BA**SH** **A**NSI **A**rt and **I**mage **B**oard 
 
-Tan insano y poco practico como el proyecto en si.
+Tan ridículo y poco practico como el proyecto en si.
 
 ## ¿xq?
 Me gusta BASH, me emociona la idea de crear un script para la web usando un lenguaje no diseñado en lo absoluto para tales fines, me gustan los IBs, me gusta el Arte ANSI y los programas de consola. Me di cuenta que podia juntar todo, y aquí estamos.
 
 ## Funciones (planeadas :B)
-La idea es que ambas interfaces (Web y CLI) tengan todas las funciones aquí listadas. También se supone que todo pueda ser configurado desde el Panel de Control, para que no exista necesidad de tocar el código. Se aceptan sugerencias.
+La idea es que ambas interfaces (Web y CLI) tengan todas las funciones aquí listadas. También se supone que todo pueda ser configurado desde el Panel de Control, para que no exista necesidad de tocar el código. De todas formas, se supone que el codigo sea facil de editar. Igualmente, se supone que existan tantas funciones, útiles o inútiles, que resulten siendo una lista ridiculamente larga. Se aceptan sugerencias.
 
 #### GENERAL
 * Funciones Básicas de un Imageboard :x:
@@ -60,12 +60,16 @@ La idea es que ambas interfaces (Web y CLI) tengan todas las funciones aquí lis
 * Modo Seguro :x:
 * Máquina del Tiempo / Papelera de Hilos borrados :x:
 * Chat (CLI) :x:
+* Encuestas :x:
+* Openings Random :x:
 
 #### Juegos
 * Shberinto (CLI) :x:
 * Tablaberinto (WEB) :x:
 * Ajedrez (CLI) :x:
 * Fortuna (CLI) :x:
+* Pureza (CLI) :x:
+* Tetris (CLI) :x:
 
 #### Estilos
 * Tablachan :x:
