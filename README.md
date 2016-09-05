@@ -19,7 +19,7 @@ La idea es que ambas interfaces (Web y CLI) tengan todas las funciones aquí lis
 * Funciones Básicas de un Imageboard :x:
  * Banners :x:
  * Creación de Tablones :x:
- * Subir Imágenes (WEB) :x:
+ * Subir Imágenes (WEB) :white_check_mark:
  * Creación de Hilos :x:
  * Creción de Respuestas :x:
  * Eliminación de todo lo anterior (con pass) :x:
@@ -40,7 +40,7 @@ La idea es que ambas interfaces (Web y CLI) tengan todas las funciones aquí lis
  * Bumps :x:
  * Limite de Posts :x:
 * Markdown para Posts :x:
-* Conversión de Imágenes a Arte ANSI :x:
+* Conversión de Imágenes a Arte ANSI :white_check_mark:
 * Creación de Hilos y Respuestas con Arte ANSI :x:
 * Insertar Videos de Youtube :x:
 * Insertar Vocaroo  :x:
@@ -62,6 +62,9 @@ La idea es que ambas interfaces (Web y CLI) tengan todas las funciones aquí lis
 * Chat (CLI) :x:
 * Encuestas :x:
 * Openings Random :x:
+* Subir archivos .ANS :x:
+* Generador de Nombres Aleatorios :x:
+* Estadisticas :x:
 
 #### Juegos
 * Shberinto (CLI) :x:
@@ -81,6 +84,7 @@ La idea es que ambas interfaces (Web y CLI) tengan todas las funciones aquí lis
 
 #### SEGURIDAD
 * Acceso seguro de usuarios por medio de SSH :white_check_mark:
+* Moderación por Strikes :x:
 * AntiSpam: CAPTCHA basado en Texto :x:
 * AntiSpam: Limite de post cada ciertos segundos. :x:
 
@@ -93,3 +97,4 @@ La idea es que ambas interfaces (Web y CLI) tengan todas las funciones aquí lis
 * Capacidad para identificarse como admin/mod/staff. :x:
 * Baneos por IP :x:
 * Filtro de Palabras :x:
+* Instalador :x:
